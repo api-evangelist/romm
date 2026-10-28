@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-RomM is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://romm.app/
+RomM is a free, self‑hosted application for scanning, organizing, and playing your retro video‑game collection. It aggregates metadata from over ten providers, synchronizes saves across devices, and supports more than 400 platforms. RomM offers a web‑based interface with built‑in emulators, OIDC single‑sign‑on, and a REST API for integration. The project is open‑source, AGPL‑3.0 licensed, and can be deployed via Docker, Kubernetes, or various NAS solutions.
+
+**Areas:** Company · OpenSource · RetroGaming · MediaManagement · Docker
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://romm.app/)
+- [Documentation](https://docs.romm.app/latest/)
+- [Getting started](https://docs.romm.app/latest/getting-started/quick-start/)
+- [API reference](https://docs.romm.app/latest/developers/api-reference/)
+- [Support](https://discord.gg/RGPJHNMMwJ)
+- [Changelog](https://github.com/rommapp/romm/releases/latest)
+- [Blog](https://romm.app/)
+- [GitHub](https://github.com/rommapp)
+
+**APIs profiled:** 33
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/romm/](https://apis.io/providers/romm/).
